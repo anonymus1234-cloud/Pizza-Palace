@@ -1,0 +1,71 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg);
+    background-repeat: no-repeat;
+    background-size:1536px 1200px;
+}
+
+.title{
+    color: rgb(224, 224, 6);
+    background-color: #f50909;
+    text-align: center;
+    text-decoration: wavy dotted;
+    font-family: Curlz MT;
+    font-size: 40px;
+}
+
+a{
+    font-size: 30px;
+    color:#f50909;
+    background-color: #e3b200c9;
+    padding: 15px;
+    font-family: Curlz MT;
+}
+
+
+li{
+    display: inline;
+}
+
+.grid{
+  padding: 8px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  color: #f509099f
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+
+.item{ margin: 40px;
+  border-style: groove ;
+  border-color:rgb(224, 224, 6);
+  border-width: 10px;
+  color: #f50909;
+  font-family: Curlz MT;
+  font-size: 20px;
+  font-weight: bolder;
+  text-align: center;
+  background-color:#e3b200a4 ;
+
+}
+
+
+nav{
+  color:#f50909;
+}
+
+
+.title1{
+  color: rgb(224, 224, 6);
+  background-color: #f50909;
+  text-align: center;
+  text-decoration: wavy dotted;
+  font-family: Curlz MT;
+  font-size: 30px;
+}
+
+
