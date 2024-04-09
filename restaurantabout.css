@@ -68,4 +68,12 @@ nav{
   font-size: 30px;
 }
 
+footer {
+  text-align: center;
+  padding: 15px;
+  padding-bottom: 33px;
+  background-color:  #f50909 ;
+  font-size: 20px;
+  color: #e0e006;
+}
 
